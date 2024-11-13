@@ -1,10 +1,13 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Kien
+* I am a IT student who really likes coding in general
+* You can call me Kiên, Kin, Kynn, or whatever pronunciation suits you best. I go by mane names😄
+* Pronouns : He/ Him
+* Connect with me through my socials :
+  * [LinkedIn][https://www.linkedin.com/in/chikien-le/]
+  * Mail : chikien14426@gmail.com
+* 🔭 This GitHub is where I store all my valuables, past and upcoming projects and its main usage is to log my work for future admirations.
+* Take a visit to my [High school account][https://github.com/acidentally], where I stored all my moments during my competitive programming days. 
 <!--
-**Kien-LeChi/Kien-LeChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
